@@ -39,7 +39,7 @@ Let's try this out utilizing Javascript for Copilot.
 
    ```
    git add skills.js
-   ```
+      ```
 
 2. Next from the VS Code terminal stage and commit the changes to the repository:
 
